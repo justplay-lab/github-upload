@@ -1,0 +1,35 @@
+20200512：
+'D:\\python_work\\001-FirstPart-Basic', 
+'C:\\python3.8.2\\python38.zip', 
+'C:\\python3.8.2\\DLLs', 
+'C:\\python3.8.2\\lib', 
+'C:\\python3.8.2', 
+'C:\\Users\\21498\\AppData\\Roaming\\Python\\Python38\\site-packages', 
+'C:\\Users\\21498\\AppData\\Roaming\\Python\\Python38\\site-packages\\win32', 
+'C:\\Users\\21498\\AppData\\Roaming\\Python\\Python38\\site-packages\\win32\\lib', 
+'C:\\Users\\21498\\AppData\\Roaming\\Python\\Python38\\site-packages\\Pythonwin', 
+'C:\\python3.8.2\\lib\\site-packages']
+================================
+2020/4/28:
+[
+'D:\python_work\001-First Part - Basic', 
+'C:\python3.8.2\python38.zip', 
+'C:\python3.8.2\DLLs', 
+'C:\python3.8.2\lib', 
+'C:\python3.8.2', 
+'C:\python3.8.2\lib\site-packages'
+]
+
+
+2020/4/27:
+执行import sys; print(sys.path)查看python搜索路径，确保自己的模块在python搜索路径中
+hello python world!
+[
+'D:\python_work\001-First Part - Basic', 
+'C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.8_3.8.752.0_x64__qbz5n2kfra8p0\python38.zip', 
+'C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.8_3.8.752.0_x64__qbz5n2kfra8p0\DLLs', 
+'C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.8_3.8.752.0_x64__qbz5n2kfra8p0\lib', 
+'C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.8_3.8.752.0_x64__qbz5n2kfra8p0', 
+'C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.8_3.8.752.0_x64__qbz5n2kfra8p0\lib\site-packages']
+'C:\Users\21498\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0', 
+'C:\Users\21498\AppData\Roaming\Python\Python38\site-packages', 
